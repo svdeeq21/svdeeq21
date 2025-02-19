@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="350" src="pass.png"  />
+<img align="right" height="250" src="pass.png"  />
 
 ###
 
