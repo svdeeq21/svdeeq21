@@ -61,3 +61,12 @@
 </div>
 
 ###
+###
+
+<h2 align="left">About Me🧑🏾‍🏫</h2>
+
+###
+
+<p align="left">🚀 Sadiq Shehu Musa | Digital Creator & Developer<br>💡 Frontend Developer | Python & Java Programmer | Graphics Designer | Video Editor<br><br>👨‍💻 Passionate about coding, design, and content creation, I help individuals build digital products while documenting my journey in personal development.<br><br>🌟 About Me<br>🎓 Computer Science Student at Air Force Institute of Technology<br>💻 Frontend Developer (HTML, CSS, JavaScript)<br>🐍 Python & Java Enthusiast<br>🎨 Graphics Designer & Video Editor<br>📊 Data Entry & Analysis<br>📺 YouTuber at Journey of an Underrated Programmer<br>🌍 Learning French & exploring AI/ML<br>🔨 Tech Stack<br>💻 Languages: Python, Java, JavaScript, SQL<br>🎨 Frontend: HTML, CSS, React, Bootstrap<br>📊 Data & Tools: Excel, Canva, Figma, CapCut<br>🛠 AI Tools: LM Studio, Ollama<br><br>📢 What I Do<br>✅ Build websites & applications<br>✅ Design graphics & edit videos<br>✅ Share knowledge on programming & freelancing<br>✅ Help others create digital products<br><br>📫 Connect With Me<br>📩 Email: sadiqmshehu21@gmail.com<br>💼 LinkedIn: linkedin.com/in/sadiqshehu/<br>📱 Telegram: t.me/Svdeeq21<br>📸 Instagram: instagram.com/svdeeq21/</p>
+
+###
